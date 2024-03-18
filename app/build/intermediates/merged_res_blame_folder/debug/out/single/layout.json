@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/awaizpasha/.gradle/daemon/8.0/com.example.balajihandloom.app-mergeDebugResources-32:/layout/activity_home_page.xml",
+        "source": "/Users/awaizpasha/.gradle/daemon/8.0/com.example.balajihandloom.app-main-35:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.balajihandloom.app-mergeDebugResources-32:/layout/activity_home_page.xml",
+        "source": "com.example.balajihandloom.app-main-35:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/awaizpasha/.gradle/daemon/8.0/com.example.balajihandloom.app-mergeDebugResources-32:/layout/toolbar_default.xml",
+        "source": "/Users/awaizpasha/.gradle/daemon/8.0/com.example.balajihandloom.app-main-35:/layout/toolbar_default.xml"
+    },
+    {
+        "merged": "/Users/awaizpasha/.gradle/daemon/8.0/com.example.balajihandloom.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "/Users/awaizpasha/.gradle/daemon/8.0/com.example.balajihandloom.app-main-35:/layout/activity_main.xml"
+    }
+]
